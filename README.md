@@ -38,3 +38,11 @@ Test.csv - 8245 filas x 17 columnas
 - Doors: Número de puertas.
 - Wheel: Rueda.
 - Color: Color.
+
+# Habilidades
+Regresión multivariable
+Gran conjunto de datos, subajuste frente a sobreajuste
+Optimización de MSLE para generalizar
+    
+# Evaluación
+La presentación se evaluará utilizando las métricas score y MSLE.
