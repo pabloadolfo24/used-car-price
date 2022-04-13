@@ -10,6 +10,8 @@ Desarrollar un sistema de predicción de precios de automóviles usados basado e
 
 ## Dataset
 El dataset es descargable del siguiente link: https://neuraldojo.org/media/carprice/archive.zip
+Train.csv - 19237 filas x 18 columnas (Includes Price Columns as Target)
+Test.csv - 8245 filas x 17 columnas
 
 ## Columnas
 ### Target variable:
