@@ -11,9 +11,9 @@ Desarrollar un sistema de predicción de precios de automóviles usados basado e
 ## Dataset
 El dataset es descargable del siguiente link: https://neuraldojo.org/media/carprice/archive.zip
 
-Train.csv - 19237 filas x 18 columnas (Incluye columna de precio)
+- Train.csv - 19237 filas x 18 columnas (Incluye columna de precio).
 
-Test.csv - 8245 filas x 17 columnas
+- Test.csv - 8245 filas x 17 columnas.
 
 ## Columnas
 ### Target variable:
@@ -40,11 +40,11 @@ Test.csv - 8245 filas x 17 columnas
 - Color: Color.
 
 # Habilidades
-Regresión multivariable
+- Regresión multivariable.
 
-Gran conjunto de datos, subajuste frente a sobreajuste
+- Gran conjunto de datos, subajuste frente a sobreajuste.
 
-Optimización de MSLE para generalizar
+- Optimización de MSLE para generalizar.
     
 # Evaluación
 La presentación se evaluará utilizando las métricas score y MSLE.
