@@ -9,8 +9,10 @@ Actualmente, el mercado de automóviles es un negocio próspero y de elevado cre
 Desarrollar un sistema de predicción de precios de automóviles usados basado en las características de éstos (modelo, año de fabricación, kilometraje, tipo de combustible, tipo de caja de cambios, etc.), que permita al usuario realizar tasaciones de autos para fines comerciales.
 
 ## Dataset
-El dataset es descargable del siguiente link: https://neuraldojo.org/media/carprice/archive.zip /n
-Train.csv - 19237 filas x 18 columnas (Includes Price Columns as Target)/n
+El dataset es descargable del siguiente link: https://neuraldojo.org/media/carprice/archive.zip
+
+Train.csv - 19237 filas x 18 columnas (Incluye columna de precio)
+
 Test.csv - 8245 filas x 17 columnas
 
 ## Columnas
