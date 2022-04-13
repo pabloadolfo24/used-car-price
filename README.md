@@ -41,7 +41,9 @@ Test.csv - 8245 filas x 17 columnas
 
 # Habilidades
 Regresión multivariable
+
 Gran conjunto de datos, subajuste frente a sobreajuste
+
 Optimización de MSLE para generalizar
     
 # Evaluación
